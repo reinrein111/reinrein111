@@ -48,9 +48,9 @@
 
 | 项目 | 简介 | 技术 |
 |------|------|------|
-| [reinrein111.github.io](https://github.com/reinrein111/reinrein111.github.io) | 个人博客 / 主页 | Web |
-| [MMR-DETR](https://github.com/reinrein111/MMR-DETR) | 基于改进 RT-DETR 的道路损坏检测模型 | Python |
-| [xjtu-cshonor-utils](https://github.com/reinrein111/xjtu-cshonor-utils) | 西安交大 CS 相关工具 | Jupyter |
+| [TB Management System](https://github.com/Huxiao-1/TB-Management-System) | 校医院结核病管理系统 | Django / MySQL |
+| [FightingZAOBA](https://github.com/reinrein111/FightingZAOBA) | Unity 独立游戏项目 | C# / Unity |
+| [Driver2Map](https://github.com/UserBits/Driver2Map) | 模仿人类驾驶的在线高精地图构建模型 | PyTorch / CV |
 
 ## 📊 GitHub 数据
 
