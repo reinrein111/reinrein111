@@ -1,142 +1,78 @@
-![](assets/Bottom_up.svg)
-
-<!--   my-icons -->
+<!-- Header Banner -->
 <p align="center">
-    <a href="https://github.com/reinrein111/reinrein111"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
-    <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.12-FF1493.svg"></a>
-    <a href="https://github.com/reinrein111/reinrein111/graphs/contributors"><img src="https://img.shields.io/github/contributors/reinrein111/reinrein111?color=blue"></a>
-    <a href="https://github.com/reinrein111/reinrein111/stargazers"><img src="https://img.shields.io/github/stars/reinrein111/reinrein111.svg?logo=github"></a>
-    <a href="https://github.com/reinrein111/reinrein111/network/members"><img src="https://img.shields.io/github/forks/reinrein111/reinrein111.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=reinrein111.reinrein111" alt="visitors"/>   
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:0D47A1&height=200&section=header&text=reinrein111&fontSize=60&fontColor=ffffff&animation=fadeIn" alt="header" />
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-
-<!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B,+I+am+reinrein111;+Welcome+to+My+Profile!;Always+learning+new+things+;Open+source+enthusiast)](https://git.io/typing-svg)
-
-<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px>
-
-
-<!--   my-skils -->
-
-| Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Language / IDE**                              | ![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white) ![Pycharm Badge](https://img.shields.io/badge/-Pycharm-3776AB?style=flat&logo=Pycharm&logoColor=white) ![Python Badge](https://img.shields.io/badge/-Django-3776AB?style=flat&logo=Django&logoColor=white)  ![PyQt](https://img.shields.io/badge/-PyQt-004400?style=flat&logo=Qt)&nbsp; ![C](https://img.shields.io/badge/-C-66CC66?style=flat&logo=C&logoColor=A8B9CC)&nbsp; ![C++](https://img.shields.io/badge/-C++-66CC66?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp; ![Bash](https://img.shields.io/badge/-Bash-444444?style=flat&logo=GnuBash)&nbsp;                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| **Domain Knownledge**                           | [![Machine Learning Badge](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat&logoColor=white)](https://github.com/reinrein111/reinrein111) [![Computer Science Development Badge](https://img.shields.io/badge/-Computer%20Science-FAB040?style=flat&logoColor=white)](https://github.com/search?q=user%3Areinrein111&type=Repositories) [![Electrical Engineering Development Badge](https://img.shields.io/badge/-Electrical%20Engineering-4C8CBF?style=flat&logoColor=white)](https://github.com/search?q=user%3Areinrein111&type=Repositories) [![Software Development Badge](https://img.shields.io/badge/-Software%20Development-FF6600?style=flat&logoColor=white)](https://github.com/search?q=user%3Areinrein111&type=Repositories)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| **CI / CD**                                     | [![Markdown Badge](https://img.shields.io/badge/-Markdown-2088FF?style=flat&logo=Markdown&logoColor=white)](https://github.com/reinrein111/reinrein111) ![Git](https://img.shields.io/badge/-Git-004400?style=flat&logo=git)&nbsp; ![GitHub](https://img.shields.io/badge/-GitHub-444444?style=flat&logo=github)&nbsp; ![GitLab](https://img.shields.io/badge/-GitLab-444444?style=flat&logo=GitLab)&nbsp;  [![](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com) [![](https://img.shields.io/badge/-PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)](https://www.jetbrains.com/pycharm/) [![](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com)|
-| **Databases**                                   | ![MySQL](https://img.shields.io/badge/-MySQL-444444?style=flat&logo=MySQL)&nbsp; ![SQLite](https://img.shields.io/badge/-SQLite-444444?style=flat&logo=SQLite)&nbsp; [![](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)](https://www.postgresql.org)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
-| **Machine Learning / Deep Learning frameworks** | ![Jupyter Notebook](http://img.shields.io/badge/-Jupyter%20Notebook-eee?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAQCAMAAAARSr4IAAACGVBMVEVhYmJdYWT/fBfzdyaqdlV2dnfcdC9udnz5dyKUaU3wdicCO2CzZzVdUkpOTk5MTk60ZzUAAP/XcC3fcivgciv/lArAajLqdSifYjrydyajnJjEjWifnp3FjGcAAACenp52dnd2dnd2dndhYmJhYmIxW3bzdybzdybzdybzdybzdyb/dxpydnl2dnd2dndhYmJgYmOda0r0dyXzdybzdybzdybudymQdmZldoJQYGmRaU7ydyfzdybzdybzdybzdybzdybzdybzdyb1dyX9dx/2dyXzdybzdybzdyb+eiPzdybzdybzdyb/ghz8eSQ3SFT/tABNTk5HTFBMTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5GTFBOTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5OTk5NTk5NTk5UUEx5WUMAOGRMTU9OTk5OTk5OTk5OTk5OTk5FTFAXQFvBajK8aTP2eCX0dyb0dyb0dybzdyb4eCXzdybzdybzdybzdybzdybzdybzdybzdybzdyb6dB3zdyXzdybzdybzdybzdybzdybzdybzdyaenp6cn6HKimD0dyXzdybzdybzdybzdybzdybzdyaenp6enp6dn6Dzdybzdyaenp6enp6enp6enp7zdyaenp7///9F1GYlAAAAsHRSTlMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADHCVho4Ax1RcnFOFz/ibFmwHXPc/thwKwkKJpfbqn1oaX+uighRdSIDAyV6TAQcAgIVHBMbKjIgEzBTHCsbLUBdQlhiTWBlR1xkaEVIR1tPbFEvF0pJNR9AFAQIMwgfKQUDBwgDBEsuMkcCLLSUKBsqT5iwNcX47N/g7cAxPmUqZq/OzaxiExPJYgQPCJjcP9lVnrgAAAClSURBVAjXVcyxSoIBAEXh+xkhEkFr6hD0AM5BkbQ3ODaEY4uDSENCS1BThI/h4v4TERG0NzZHvoAQ0SDV8FvkmS6cw5UgSTR5s83rlgUvWuA8l/Bs59eYbXhS28VdUt1H4dA9Eu1HexUdS3T/7Y81vXJ9rQicLcxoAK64hvd1fWwOeDgoy+JW3bCs56tOonnxd3ycGKt9nt7I91GShgn60yRJI/kBP8EfEEdOa6sAAAAASUVORK5CYII=&logoColor=F37626) ![Scikit-learn](http://img.shields.io/badge/-Scikit--Learn-eee?style=flat-square&logo=scikit-learn&logoColor=e26d00) ![PyTorch](http://img.shields.io/badge/-PyTorch-eee?style=flat-square&logo=pytorch&logoColor=EE4C2C) ![TensorFlow](http://img.shields.io/badge/-TensorFlow-eee?style=flat-square&logo=tensorflow&logoColor=FF6F00) ![ChatGPT](https://img.shields.io/badge/-ChatGPT-444444?style=flat&logo=ChatGPT)&nbsp; ![OpenCV](https://img.shields.io/badge/-OpenCV-444444?style=flat&logo=OpenCV)&nbsp; |
-
-
-<!--   GitHub stats graph -->
-### 📈 GitHub Activity Graph:
-
-<!--   green snake -->
-![reinrein111's github activity graph](https://raw.githubusercontent.com/reinrein111/reinrein111/output/github-contribution-grid-snake.svg)
-<!--   stats + languages -->
-| .                                                                                                                                       | .                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|
-| ![reinrein111's github stats](https://github-readme-stats.vercel.app/api?username=reinrein111&show_icons=true&theme=radical&include_all_commits=true) | ![reinrein111's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=reinrein111&theme=radical&layout=compact) |
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reinrein111"></img>
-
-<!-- dark snake -->
-![reinrein111's github activity graph](https://raw.githubusercontent.com/reinrein111/reinrein111/output/github-contribution-grid-snake-dark.svg)
-
-<!--   profile-green-animate -->
-![](./profile-3d-contrib/profile-green-animate.svg)
-
-<!--   grid-snake ![](https://github.com/reinrein111/reinrein111/blob/output/github-contribution-grid-snake.svg) -->
-
-
-<!--   skyline 
-<a href="https://skyline.github.com/reinrein111/2022"><img src="./assets/2022.gif" alt="" width="auto" height="auto" /></a>
--->
-
-<!--  TOP codersrank -->
-<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=reinrein111" width="auto"></img>
-<!--  2d history skills -->
-<img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=reinrein111&show-other-skills=true" width="auto"></img>
-
-**📫 How to Reach me:**
-<p align="left">
-<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/reinrein111/reinrein111/master/assets/twitter.svg" alt="reinrein111" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/reinrein111/reinrein111/master/assets/linkedin.svg" alt="reinrein111" height="30" width="30" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/reinrein111/reinrein111/master/assets/gmail.svg" alt="Gmail" height="30" width="30" /></a>
+<!-- Typing Intro -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+reinrein111;%E5%A4%A7%E4%B8%80+CS+%E5%AD%A6%E7%94%9F;%E7%83%AD%E7%88%B1%E7%BC%96%E7%A8%8B+%C2%B7+%E6%8C%81%E7%BB%AD%E6%88%90%E9%95%BF" alt="Typing SVG" />
 </p>
 
-<div align="center">
-<summary>Trophy: Github Profile Trophy</summary>
-</div>
-
-<p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=reinrein111" alt="reinrein111" /></a>
+<p align="center">
+  <a href="https://github.com/reinrein111"><img src="https://img.shields.io/badge/GitHub-reinrein111-181717?logo=github&style=flat-square" /></a>
+  <img src="https://img.shields.io/badge/Status-%E5%A4%A7%E4%B8%80%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=reinrein111&color=36BCF7&style=flat-square" alt="Profile views" />
 </p>
 
+---
 
+## 🚀 关于我
 
+- 🎓 西安交通大学大一学生，计算机相关专业
+- 💻 正在探索 Python、C/C++、机器学习与 Web 开发
+- 🌱 持续学习：深度学习、数据结构与算法
+- 🔍 对开源项目充满好奇，欢迎交流与指正
 
-   <!--machine-learning-->
-```mermaid
-graph TD;
-    machine-learning-->Data;
-    machine-learning-->Algorithms;
-    machine-learning-->Statistical-Models;
-    machine-learning-->Feature-Engineering;
-    machine-learning-->Evaluation-Metrics;
-    machine-learning-->Deployment;
-```
-   
+## 🛠️ 技术栈
 
+### 语言
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-<img src="./src/badges_hackerrank.png" alt="Metrics" width="57%"> <img src="./src/hackerrank-logo.jpg" alt="Metrics" width="30%">
+### 框架 / 工具
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
+### 数据库
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
+## 📌 精选项目
 
+| 项目 | 简介 | 技术 |
+|------|------|------|
+| [reinrein111.github.io](https://github.com/reinrein111/reinrein111.github.io) | 个人博客 / 主页 | Web |
+| [MMR-DETR](https://github.com/reinrein111/MMR-DETR) | 基于改进 RT-DETR 的道路损坏检测模型 | Python |
+| [xjtu-cshonor-utils](https://github.com/reinrein111/xjtu-cshonor-utils) | 西安交大 CS 相关工具 | Jupyter |
 
+## 📊 GitHub 数据
 
-
-<!-- My Home-->
- 
- ```geojson
-{
- "type": "FeatureCollection",
- "features": [
-   {
-     "type": "Feature",
-     "id": 1,
-     "properties": {
-       "ID": 0
-     },
-     "geometry": {
-       "type": "Polygon",
-       "coordinates": [
-         [
-             [23.5,53.9],
-             [23.5,51.2],
-             [32.7,51.2],
-             [32.7,53.9],
-             [23.5,53.9]
-         ]
-       ]
-     }
-   }
- ]
-}
-```
-   
-
-<!--  TOP codewars -->
-<!-- <img src="https://www.codewars.com/users/BEPb/badges/large" width="auto"></img> -->
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/reinrein111/count.svg" />
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=reinrein111&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reinrein111&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reinrein111&theme=tokyonight&hide_border=true" />
+</p>
 
-![](assets/Bottom_down.svg)
+## 🐍 贡献图谱
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reinrein111/reinrein111/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reinrein111/reinrein111/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/reinrein111/reinrein111/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
+<p align="center">
+  <i>Keep learning, keep building. 🚀</i>
+</p>
