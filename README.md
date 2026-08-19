@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/reinrein111"><img src="https://img.shields.io/badge/GitHub-reinrein111-181717?logo=github&style=flat-square" /></a>
-  <img src="https://img.shields.io/badge/Status-%E5%A4%A7%E4%B8%80%E7%BC%96%E7%A8%8B%E5%B0%8F%E7%99%BD-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/XJTU-CS%2024%E7%BA%A7-FF6F00?style=flat-square&logo=xianjiaotonguniversity&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=reinrein111&color=36BCF7&style=flat-square" alt="Profile views" />
 </p>
 
@@ -18,10 +18,16 @@
 
 ## 🚀 关于我
 
-- 🎓 西安交通大学大一学生，计算机相关专业
+- 🎓 西安交通大学计算机科学与技术专业 2024 级本科生
 - 💻 正在探索 Python、C/C++、机器学习与 Web 开发
 - 🌱 持续学习：深度学习、数据结构与算法
 - 🔍 对开源项目充满好奇，欢迎交流与指正
+
+## 📝 学术成果
+
+| 论文 | 期刊/会议 | 作者位次 |
+|------|-----------|----------|
+| [Driver2Map: Imitating Human Driving for Online High-Definition Map Construction](http://arxiv.org/abs/2608.01338) | arXiv 2026 | 第三作者 |
 
 ## 🛠️ 技术栈
 
